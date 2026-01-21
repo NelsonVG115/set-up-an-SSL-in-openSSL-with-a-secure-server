@@ -1,0 +1,9 @@
+{
+  "Apache Service": "✅ Apache is running.",
+  "SSL Module": "✅ The SSL module is enabled.",
+  "Certificate File": "✅ Found certificate at /etc/ssl/certs/ssl-cert-snakeoil.pem",
+  "Key File": "✅ Found private key at /etc/ssl/private/ssl-cert-snakeoil.key",
+  "Certificate Validity": "✅ Valid certificate. Common Name (CN): debian.debian",
+  "Days Until Expiry": "✅ The certificate will expire in 3110 days.",
+  "Certificate-Key Match": "✅ Certificate and private key match."
+}
